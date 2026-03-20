@@ -1,2 +1,3 @@
-# mini-web-app-t59f
-Automated issue comment bot repository
+# Mini Web App T59F
+
+Automated issue comment bot repository.
